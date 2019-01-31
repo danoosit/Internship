@@ -1,0 +1,5 @@
+car,4-wheel on the road!!
+ship,Floating in the sea!!
+plane,Flying vehicle.
+mortorcycle,2-wheel on the road!!
+submarine,Under the sea.
